@@ -47,7 +47,7 @@ Another factor to consider with respect to these device numbers is that Apple’
 			</div>
 		</div>
 		
-		<script src="jquery-1.10.2.js"</script>
+		<script src="jquery-1.10.2.js"></script>
 		<script src="bootstrap/js/bootstrap.js"></script>
 	</body>
 
